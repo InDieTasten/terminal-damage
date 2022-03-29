@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xterm": "^4.16.0"
+    "xterm": "^4.17.0"
   }
 }
